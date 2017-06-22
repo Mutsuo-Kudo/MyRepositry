@@ -1,2 +1,0 @@
-###!!! ABORT: Aborting on channel error
-quitする前に待つ？
