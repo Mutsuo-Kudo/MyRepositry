@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp01</string>
+    <string name="helloworld">今晩は</string>
+    <string name="pushme">押して！</string>
+</resources>
